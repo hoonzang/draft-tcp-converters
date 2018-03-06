@@ -19,38 +19,28 @@ author:
   ins: O. Bonaventure
   name: Olivier Bonaventure
   organization: Tessares
-  street: ''
-  country: Belgium
   role: editor
   email: Olivier.Bonaventure@tessares.net
  -
   ins: M. Boucadair
   name: Mohamed Boucadair
   organization: Orange
-  street: ''
-  country: France
   role: editor
   email: mohamed.boucadair@orange.com
  -
   ins: B. Peirens
   name: Bart Peirens
   organization: Proximus
-  street: ''
-  country: Belgium
   email: bart.peirens@proximus.com
  -
   ins: S. Seo
   name: SungHoon Seo
   organization: Korea Telecom
-  street: ''
-  country: Korea
   email: sh.seo@kt.com
  -
   ins: A. Nandugudi
   name: Anandatirtha Nandugudi
   organization: Memphis University
-  street: ''
-  country: USA
   email: nndugudi@memphis.edu
 
 normative:
